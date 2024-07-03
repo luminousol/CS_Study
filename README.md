@@ -17,10 +17,10 @@
 <br/>
 
 ### 참여자 👥
-|                                                                 최솔이                                                                 |                                                               정해영                                                                |                                                    설주연                                                    |
-|:------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| <img src="https://avatars.githubusercontent.com/u/130022922?v=4" width=200px height = 200px> | <img src="https://avatars.githubusercontent.com/u/59853998?v=4" width=200px height = 200px> | <img src="https://avatars.githubusercontent.com/u/110334373?v=4" width=200px height = 200px> |
-|                                                [@luminousol](https://github.com/luminousol)                                                |                                             [@hae02y](https://github.com/hae02y)                                             |                                [@seoljuyeon](https://github.com/seoljuyeon)                                |
+|                                                                 최솔이                                                                 |                                                    설주연                                                    |
+|:------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/130022922?v=4" width=200px height = 200px> | <img src="https://avatars.githubusercontent.com/u/110334373?v=4" width=200px height = 200px> |
+|                                                [@luminousol](https://github.com/luminousol)                                                |                                [@seoljuyeon](https://github.com/seoljuyeon)                                |
 
 <br/>
 
