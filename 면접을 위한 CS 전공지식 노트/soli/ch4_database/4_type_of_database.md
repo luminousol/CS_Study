@@ -1,4 +1,4 @@
-# 4.3 Type of database
+# 4.4 Type of database
 
 ##  데이터베이스의 종류
 
