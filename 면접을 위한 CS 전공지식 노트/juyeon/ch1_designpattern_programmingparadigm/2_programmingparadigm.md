@@ -6,6 +6,4 @@
 
 2. [객체지향 프로그래밍](https://congruous-parcel-450.notion.site/3dc3976c93954a279ee985332012f998?pvs=4) <br/>
 
-3. [절차형 프로그래밍]() <br/>
-
-4. [패러다임의 혼합]() <br/>
+3. [절차형 프로그래밍](https://congruous-parcel-450.notion.site/2bbf171f7cd64fc0a2d84375a764723a?pvs=4) <br/>
