@@ -1,6 +1,6 @@
 # 1.2 Programming Paradigm
 
-## 프로그램밍 패러다임
+## 프로그래밍 패러다임
 
 1. [선언형과 함수형 프로그래밍](https://congruous-parcel-450.notion.site/3e6e9a268a3f4e7fa1f799414f53db48?pvs=4) <br/>
 
