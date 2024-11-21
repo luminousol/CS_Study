@@ -1,6 +1,6 @@
 # 2.1 Network
 
-## 네트워크
+## 네트워크의 기초
 
 1. [처리량과 지연시간](https://congruous-parcel-450.notion.site/bbce8ee13dda42d59c468352b0ddd570?pvs=4) <br/>
 2. [네트워크 토폴로지와 병목 현상](https://congruous-parcel-450.notion.site/8492b2001004416d8f10a6b17eceea89?pvs=4)<br/>
